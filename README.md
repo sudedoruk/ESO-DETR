@@ -1,1 +1,1 @@
-# DETR_bitirme
+# ESO_DETR_bitirme
